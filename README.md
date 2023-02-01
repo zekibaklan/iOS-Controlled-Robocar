@@ -1,5 +1,5 @@
 ## iOS-Controlled-Robocar
-# ***Control from iOS to Robocar with use Firebase database and run STM32F103C8T6 microcontroller***
+# ***Control From iOS to Robocar With Use Firebase Realtime Database and Run STM32F103C8T6 Microcontroller***
 **Projenin Amacı**
 
 STM32 kartı kullanarak UI(User Interface) ile donanımın haberleşmesini sağlayan bir uygulama geliştirmektir. 
