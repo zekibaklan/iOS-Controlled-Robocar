@@ -1,6 +1,5 @@
 ## iOS-Controlled-Robocar
 # ***Control from iOS to Robocar with use Firebase database and run STM32F103C8T6 microcontroller***
-![banner resmi](https://imgyukle.com/f/2023/02/01/JAK0vq.jpeg)<br />
 **Projenin Amacı**
 
 STM32 kartı kullanarak UI(User Interface) ile donanımın haberleşmesini sağlayan bir uygulama geliştirmektir. 
@@ -16,6 +15,12 @@ Engel gördüğünde duracaktır.
 **LEFT BUTTON**: Robotun sol’a dönmesini sağlar.<br />
 **RIGHT BUTTON**: Robotun sağ’a dönmesini sağlar.<br />
 **FLASH BUTTON**: Robotun anlık ışıkları aç-kapat fonksiyonu(Sellector) çalışır.<br />
-![banner resmi](https://imgyukle.com/f/2023/02/01/JAKMtt.jpeg)
+![banner resmi](https://r.resimlink.com/iGwcT3WZ8Ms.png)<br /><br />
+
+**Bağlantı Şeması**
+![banner resmi](https://imgyukle.com/f/2023/02/01/JAqYW1.png)<br /><br />
+
+
+
 
 
