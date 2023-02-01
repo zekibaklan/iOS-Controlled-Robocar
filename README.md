@@ -18,7 +18,7 @@ Engel gördüğünde duracaktır.
 ![banner resmi](https://r.resimlink.com/iGwcT3WZ8Ms.png)<br /><br />
 
 **Bağlantı Şeması**
-![banner resmi](https://imgyukle.com/f/2023/02/01/JAqYW1.png)<br /><br />
+![banner resmi](https://r.resimlink.com/QDgOzR.png)<br /><br />
 
 
 
