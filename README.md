@@ -22,5 +22,3 @@ Engel gördüğünde duracaktır.
 
 
 
-
-
